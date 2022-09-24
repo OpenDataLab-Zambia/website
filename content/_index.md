@@ -1,6 +1,6 @@
 ---
 header_brand: "OpenDataLab Zambia"
-header_tagline_paragraph: "Promotes OpenStreetMap (OSM) and encourages the growth, development and distribution of free geospatial data"
+header_tagline_paragraph: "We are a non-profit organisation that promotes OpenStreetMap (OSM) and encourages the growth, development and distribution of free geospatial data."
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
@@ -12,7 +12,10 @@ teaser_image: "images/map-zambia-logo.png" # https://www.pexels.com/search/produ
 
 # Our services
 
-We are a non-profit organisation that promotes OpenStreetMap (OSM) and encourages the growth, development and distribution of free geospatial data.
+- Openstreetmapping
+- Geographical Information System
+- Enviromental Assessments
+- Social-Economic Assessments
 
 ---
 
