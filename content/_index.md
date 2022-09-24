@@ -1,22 +1,22 @@
 ---
 header_brand: "OpenDataLab Zambia"
-header_tagline_paragraph: "Mapping Zambia for the world"
+header_tagline_paragraph: "Promotes OpenStreetMap (OSM) and encourages the growth, development and distribution of free geospatial data"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
 header_button_more:
   url: "#our-services"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+  title: "Our Services"
+teaser_image: "images/map-zambia-logo.png" # https://www.pexels.com/search/product%20testing/
 ---
 
 # Our services
 
-We are executing mapping projects across Zambia.
+We are a non-profit organisation that promotes OpenStreetMap (OSM) and encourages the growth, development and distribution of free geospatial data.
 
 ---
 
-Get in touch!
+# Get in touch!
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
