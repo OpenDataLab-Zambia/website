@@ -12,11 +12,11 @@ teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20test
 
 # Our services
 
-Lorem Ipsum
+We are executing mapping projects across Zambia.
 
 ---
 
-Lorem Ipsum
+Get in touch!
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
@@ -26,13 +26,16 @@ Lorem Ipsum
 
 Let's keep it simple. This is our contact information:
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
+**OpenDataLab Zambia**
+Private Bag
+12 Broads Road
+Rhodes Park
+Lusaka
+Zambia
 
-E-mail: jane@doe.net
-Phone: 580-689-0577
+E-mail: team@opendatalabzambia.org
+International calls: +31623023832
+Phone: +260979011064 +260976551599
 
 We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
 
